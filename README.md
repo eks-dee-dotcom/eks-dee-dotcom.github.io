@@ -1,27 +1,24 @@
 # eks-dee-dotcom
 
-[**Arcs**][arcs] [*(code)*][week79code]  
+[**Arcs**][arcs]  
 [![Week 79](./assets/img/preview/week_79.png)][week79]
 
-[**Double sine**][week78] [*(code)*][week78code]  
+[**Double sine**][doublesine]
 [![Week 78](./assets/img/preview/week_78.png)][week78]
 
-[**Easy cubes**][week77] [*(code)*][week77code]  
+[**Easy cubes**][easycube]
 [![Week 77](./assets/img/preview/week_77.png)][week77]
 
-[**Dual spinners**][week76] [*(code)*][week76code]  
+[**Dual spinners**][dualspinner]  
 [![Week 76](./assets/img/preview/week_76.png)][week76]
 
-[**Trail tracer**][week75] [*(code)*][week75code]  
+[**Sine dual spinners**][mandalasine] 
 [![Week 75](./assets/img/preview/week_75.png)][week75]
 
-## Full archive
-
-[![Week 01](./assets/img/preview/week_01.png)][week01]
-[![Week 02](./assets/img/preview/week_02.png)][week02]
-
-[arcs]: https://owenmcateer.github.io/Motus-Art/projects/week_01.html
-[week01code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_01/main.js
-[week02]: https://owenmcateer.github.io/Motus-Art/projects/week_02.html
-[week02code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_02/main.js
+[arcs]: ./arcs/index.html
+[doublesine]: ./Double_sine/index.html
+[dualspinner]: ./Dual_spinners/index.html
+[easycube]: ./Easy_cubes/index.html
+[mandalasine]: ./Mandala_sine/index.html
+[easycube]: ./Easy_cubes/index.html
 
