@@ -1,5 +1,3 @@
-#☻
-
 [**Arcs**][arcs]
 
 [**Double sine**][doublesine]
