@@ -5,7 +5,7 @@ let colorData = {
   accent2:0
 }
 
-let innerBound = 270
+let innerBound = 300//270
 let outerBound = 300
 const speed = 0.01 //lower speed drastically increase draw qualtiy, but even at high speed eventually they reach the same level
 const padding = 30
@@ -41,8 +41,8 @@ function setup() {
     cy = canvasY/2
   }
   background(colorData.back)
-  innerDot = new dot(0)
-  outerDot = new dot(1)
+  innerDot = new dot(1)
+  outerDot = new dot(0)
   starterdots = [innerDot,outerDot]
 }
 
