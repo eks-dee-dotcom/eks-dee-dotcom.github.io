@@ -40,7 +40,7 @@ function draw(){
   fill(0,255,255,20)//noFill()
   stroke(220)
   strokeWeight(1)
-  recBoxDraw(0,centrex,centrez)
+  recBoxDraw(0,centrex%360,centrez%360)
   if(pin){
     push()
     stroke(0)
