@@ -7,7 +7,7 @@ zspeed = 0.001
 cubeCount = 6
 cubeSizeMin = 20
 cubeSizeMax = 500
-changeSquare = false
+changeSquare = true
 rotLimit = 30
 //================================================
 
