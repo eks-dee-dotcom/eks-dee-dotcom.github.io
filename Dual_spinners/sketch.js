@@ -9,8 +9,8 @@ let innerBound = 270
 let outerBound = 300
 const speed = 0.01 //lower speed drastically increase draw qualtiy, but even at high speed eventually they reach the same level
 const padding = 30
-const peaks = 5
-const peakheight = 3 //peaks are weird. come out as simplified ratio peaks:peakheight ie. 24:15 = 8:5. the larger numbers just increase draw speed and lower quality
+const peaks = 6
+const peakheight = 5 //peaks are weird. come out as simplified ratio peaks:peakheight ie. 24:15 = 8:5. the larger numbers just increase draw speed and lower quality
 const linestrength = 0.3
 let saveAnimation = 0 //how many frames to save, if any.
 
