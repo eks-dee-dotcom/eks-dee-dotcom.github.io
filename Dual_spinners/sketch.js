@@ -41,8 +41,8 @@ function setup() {
     cy = canvasY/2
   }
   background(colorData.back)
-  innerDot = new dot(1)
-  outerDot = new dot(0)
+  innerDot = new dot(0)
+  outerDot = new dot(1)
   starterdots = [innerDot,outerDot]
 }
 
