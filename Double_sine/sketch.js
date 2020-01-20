@@ -5,7 +5,7 @@ let colorData = {
   accent2:0
 }
 dots = []
-const linecount = 60
+const linecount = 90
 let linecol
 
 
