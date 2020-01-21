@@ -40,7 +40,7 @@ function draw(){
   fill(0,255,255,20)//noFill()
   stroke(220)
   strokeWeight(1)
-  recBoxDraw(0,centrex%360,centrez%360)
+  recBoxDraw(0,centrex,centrez)
   if(pin){
     push()
     stroke(0)
@@ -69,7 +69,7 @@ function recBoxDraw(count,xrot,zrot){
   count +=1
   drawBox(((((cubeSizeMax-cubeSizeMin)/cubeCount)*count)+cubeSizeMin),xrot,zrot)
   if(cubeCount>count){
-    recBoxDraw(count,xrot*xeasing,zrot*zeasing)
+    recBoxDraw(count,xrot-rotLimit,zrot-rotlimit)
   }
 }
 function mouseClicked(){
