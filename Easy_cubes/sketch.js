@@ -12,8 +12,8 @@ rotLimit = 30
 //================================================
 
 
-centrex = 0
-centrez = 0
+centrex = rotLimit*cubeCount//0
+centrez = rotLimit*cubeCount//0
 xval = 0
 zval = 0
 pinxPos = 0
