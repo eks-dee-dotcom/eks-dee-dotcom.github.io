@@ -69,7 +69,7 @@ function recBoxDraw(count,xrot,zrot){
   count +=1
   drawBox(((((cubeSizeMax-cubeSizeMin)/cubeCount)*count)+cubeSizeMin),xrot,zrot)
   if(cubeCount>count){
-    recBoxDraw(count,xrot-rotLimit,zrot-rotlimit)
+    recBoxDraw(count,xrot-rotLimit,zrot-rotLimit)
   }
 }
 function mouseClicked(){
