@@ -1,9 +1,9 @@
 
 //======================================
-arcCount = 20
+arcCount = 150
 speed = 1
 arcMaxOpen = 1
-arcMinOpen = 90
+arcMinOpen = 45
 circleEdge = 100*2
 arcSize = 70*2
 lineWidth = 0.5
