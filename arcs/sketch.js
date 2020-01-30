@@ -6,7 +6,7 @@ arcMaxOpen = 1
 arcMinOpen = 45
 circleEdge = 100*2
 arcSize = 70*2
-lineWidth = 0.5
+lineWidth = 3
 //======================================
 
 arcs = []
