@@ -3,7 +3,7 @@
 arcCount = 150
 speed = 1
 arcMaxOpen = 1
-arcMinOpen = 45
+arcMinOpen = 135
 circleEdge = 100*2
 arcSize = 150*2
 lineWidth = 3
