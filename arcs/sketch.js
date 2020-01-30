@@ -1,6 +1,6 @@
 
 //======================================
-arcCount = 150
+arcCount = 50
 speed = 1
 arcMaxOpen = 1
 arcMinOpen = 135
